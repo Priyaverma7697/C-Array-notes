@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+// que-12--> Find the missing number in an array of consecutive integer
 int a[]={1,3,4,5};
 int n=5;
 int sum;
